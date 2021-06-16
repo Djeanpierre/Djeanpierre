@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dorbens Jean Pierre
+- 👋 Hi, I’m Dorbens Jean-Pierre
 - 👀 I’m interested in Data Science,Data Analytics and Machine Learning
 - 🌱 I’m currently a graduate student studying Business Analytics with a concentration in ML/DL
 - 💞️ I’m looking to collaborate on Data Science or ML projects
