@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dorbens Jean-Pierre
 - 👀 I’m interested in Data Science,Data Analytics and Machine Learning
-- 🌱 I'm a recent graduate Business Analytics student.
+- 🌱 I'm a recent MS Business Analytics graduate.
 - 💞️ I’m looking to collaborate on Data Science projects
 - 📫 How to reach me djp978@gmail.com
 
